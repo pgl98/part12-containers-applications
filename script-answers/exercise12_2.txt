@@ -1,0 +1,11 @@
+Script started on 2021-10-03 13:22:00+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="149" LINES="31"]
+]0;pgl@paolo-ubuntu: ~/part12-containers-applications/script-answers[01;32mpgl@paolo-ubuntu[00m:[01;34m~/part12-containers-applications/script-answers[00m$ exitsudo docker container run -it ubuntu bashexit[Ksudo docker container run -it ubuntu bash
+[sudo] password for pgl: 
+]0;root@af7e9bc3e632: /root@af7e9bc3e632:/# [K]0;root@af7e9bc3e632: /root@af7e9bc3e632:/# mkdir /usr/src/app
+]0;root@af7e9bc3e632: /root@af7e9bc3e632:/# touch /usr/src/app/index.js
+]0;root@af7e9bc3e632: /root@af7e9bc3e632:/# [Kexit
+exit
+]0;pgl@paolo-ubuntu: ~/part12-containers-applications/script-answers[01;32mpgl@paolo-ubuntu[00m:[01;34m~/part12-containers-applications/script-answers[00m$ exit
+exit
+
+Script done on 2021-10-03 13:22:30+01:00 [COMMAND_EXIT_CODE="0"]
