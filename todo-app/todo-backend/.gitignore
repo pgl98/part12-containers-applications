@@ -60,5 +60,5 @@ typings/
 # next.js build output
 .next
 
-# bind mount for persisting data
-.mongo_data
+# mongo_data from container
+/mongo_data
